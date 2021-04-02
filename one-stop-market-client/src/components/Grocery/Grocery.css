@@ -1,0 +1,17 @@
+.grocery h5  {
+    margin: 20px;
+}
+.price {
+    color: green;
+    font-weight: bold;
+    font-size: 30px;
+}
+.button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-left: 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: green;
+    color: white;
+}

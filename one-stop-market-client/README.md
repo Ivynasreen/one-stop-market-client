@@ -1,0 +1,1 @@
+This project is about a grocery store. In home page the product are shown. If buy now button is clicked the page will go to checkout page and will the product bought. In orders page product orders are shown. In admin page add product and manage products are shown.

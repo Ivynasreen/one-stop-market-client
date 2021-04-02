@@ -1,0 +1,11 @@
+form label {
+    font-weight: bold;
+}
+form input[name = "name"],
+form input[name = "weight"],
+form input[name = "price"] {
+    width: 50%;
+}
+
+
+
